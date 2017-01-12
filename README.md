@@ -40,3 +40,6 @@
 - Mac OS
 - 10 finger blind-typing skills
 - driving license
+
+
+Send your CV with salary expectation (brutto, EUR) at qa@vinogradov-it.de
