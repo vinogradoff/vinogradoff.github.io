@@ -33,6 +33,7 @@
 - Selenide
 - JavaScript advanced
 - Protractor, Jasmine
+- Java advanced
 - ISTQB advanced level
 - Gradle
 - Jira, Confluence
