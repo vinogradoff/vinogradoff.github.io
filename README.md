@@ -23,7 +23,7 @@
 - at least 5 years working experience in test and/or development
 - technical higher education grade (for non-EU citizens)
 - Selenium based web testing experience
-- at least one from C#, Java, Python
+- C# **or** Java **or** Python
 - HTML/CSS/Javascript
 - Linux at working level
 - problem solving skills
