@@ -52,6 +52,7 @@
 - German social benfits (insurances: medical, pension, unemployment, accidents, 5 weeks paid vacation)
 - best tools for your work (computer, phone etc.)
 - bonuses for top-performers
+- cookies!!!
 
 Send your CV with salary expectation (brutto, EUR) at [qa@vinogradov-it.de](mailto:qa@vinogradov-it.de)
 
