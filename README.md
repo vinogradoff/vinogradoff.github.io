@@ -24,6 +24,7 @@
 - Selenium based web testing experience
 - at least one from C#, Java, Python
 - HTML/CSS/Javascript
+- Linux at working level
 - problem solving skills
 - at least basic German knowledge (A1/A2)
 - fluent in speaking/reading/writing at least one from German/English
@@ -38,6 +39,7 @@
 - Gradle
 - Jira, Confluence
 - Mac OS
+- Linux advanced
 - 10 finger blind-typing skills
 - driving license
 
