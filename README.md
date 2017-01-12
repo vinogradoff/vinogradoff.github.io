@@ -45,4 +45,5 @@
 Send your CV with salary expectation (brutto, EUR) at [qa@vinogradov-it.de]
 
 Please **do not** apply, if you did not met all the **requirements**
+
 Please **do** apply, if you did not met some or many of **nice to have**
