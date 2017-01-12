@@ -41,6 +41,7 @@
 - Jira, Confluence
 - Mac OS
 - Linux advanced
+- participant of qa/developers meetups, conferences etc.
 - 10 finger blind-typing skills
 - driving license
 
@@ -49,7 +50,7 @@
 - full support with relocation
 - Blue-Card for non-EU citizens (residence pertmit after 21-33 months)
 - educational package
-- German social benfits (insurances: medical, pension, unemployment, accidents, 5 weeks paid vacation)
+- German social benfits (insurances: medical, pension, unemployment, accidents. 5 weeks paid vacation)
 - best tools for your work (computer, phone etc.)
 - bonuses for top-performers
 - cookies!!!
