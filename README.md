@@ -51,7 +51,7 @@
 **Benefits**
 
 - full support with relocation
-- Blue-Card for non-EU citizens (residence pertmit after 21-33 months)
+- Blue-Card for non-EU citizens (residence permit after 21-33 months)
 - educational package (courses, workshops, conferences)
 - German social benfits (insurances: medical, pension, unemployment, accidents. 5 weeks paid vacation)
 - best tools for your work (computer, phone etc.)
