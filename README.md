@@ -1,3 +1,5 @@
+### There is a dream job for you! Move to the heart of Germany and work on innovative projects with different prominent customers! 
+
 ## Job descripton
 
 **Role**: QA Engineer
@@ -49,7 +51,7 @@
 
 - full support with relocation
 - Blue-Card for non-EU citizens (residence pertmit after 21-33 months)
-- educational package
+- educational package (courses, workshops, conferences)
 - German social benfits (insurances: medical, pension, unemployment, accidents. 5 weeks paid vacation)
 - best tools for your work (computer, phone etc.)
 - bonuses for top-performers
