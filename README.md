@@ -4,7 +4,7 @@
 
 **Role**: QA Engineer
 
-**Where**: Cologne/Bonn, Germany. 
+**Where**: Cologne/Dusseldorf/Bonn, Germany. 
 
 **When**: starting March/April 2017
 
