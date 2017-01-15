@@ -30,3 +30,10 @@ User wants to web-search for a "selenide" term getting the popular site as the t
 5. We expect to have the first image to be somehow related to selenide.org site
 6. Switch back to "All" link
 7. We expect that we still have the same link to selenide.org as in step 3
+
+### Screens illustrating the screnario
+
+![Step 1](1.png)
+![Step 2-3](2.png)
+![Step 4-5](3.png)
+![Step 6-7](4.png)
