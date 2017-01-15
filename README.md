@@ -58,6 +58,9 @@
 - bonuses for top-performers
 - cookies!!!
 
+**Test assignment**
+This assignment is **optional** for your application. You are expected to be capable of solving the similar problems on job, so please take a look into it. But anyway, _if you can prove your skills otherwise_ - then you can skip solving the assignment. 
+
 Send your CV with salary expectation (brutto, EUR) at [qa@vinogradov-it.de](mailto:qa@vinogradov-it.de)
 
 Please **do not** apply if you don't meet all the **requirements**
