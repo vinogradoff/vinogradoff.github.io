@@ -42,6 +42,8 @@
 - Gradle
 - Jira, Confluence
 - Mac OS
+- Jenkins
+- Git
 - Linux advanced
 - participant of qa/developers meetups, conferences etc.
 - 10 finger blind-typing skills
