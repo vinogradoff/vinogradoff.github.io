@@ -6,9 +6,9 @@ Wann: März/April 2017
 
 Dauer: 3++ Monate
 
-Aufagen:
+Aufgaben:
 
-- Testautomatisierung in für diverse Web Applications mit JavaScript/Selenium basierten Framework
+- Testautomatisierung für diverse Web Applications mit JavaScript/Selenium basierten Framework
 - Testautomatisierung für REST API 
 - Manuelles & Exploratives Testen
 - Agiles Testing
