@@ -4,7 +4,7 @@
  - [2016 Lean Test Cases] (https://vimeo.com/groups/426288/videos/195845395)
 
 ## in Russian
-- [2016, Testing: Purpose & Goal, Junior Day https://www.youtube.com/watch?v=LRH53NOwZyY&list=PL5wxqoWu9GEoJ-2TMRv7Hud3mAgwqplDV
+- [2016, Testing: Purpose & Goal, Junior Day] (https://www.youtube.com/watch?v=LRH53NOwZyY&list=PL5wxqoWu9GEoJ-2TMRv7Hud3mAgwqplDV)
 - [2016 PageObjects]
 (https://www.youtube.com/watch?v=jT1mIQmdVuo&list=PL5wxqoWu9GEoJ-2TMRv7Hud3mAgwqplDV&index=6)
 - [2016 QA Battle Typed vs Untyped in PageObjects]
