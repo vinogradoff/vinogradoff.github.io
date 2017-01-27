@@ -1,6 +1,7 @@
-(in English)
-2016 Lean Test Cases
-https://vimeo.com/groups/426288/videos/195845395
+# Links to my talks
+
+in English
+ - [2016 Lean Test Cases] (https://vimeo.com/groups/426288/videos/195845395)
 
 (in Russian)
 2016, Testing: Purpose & Goal, Junior Day https://www.youtube.com/watch?v=LRH53NOwZyY&list=PL5wxqoWu9GEoJ-2TMRv7Hud3mAgwqplDV
