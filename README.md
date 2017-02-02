@@ -28,6 +28,7 @@
 - C# **or** Java **or** Python
 - HTML/CSS/Javascript
 - Linux at working level
+- Shell scripts
 - problem solving skills
 - at least basic German knowledge (A1/A2)
 - fluent in speaking/reading/writing in German or English
