@@ -47,6 +47,7 @@
 - Linux advanced
 - participant of qa/developers meetups, conferences etc.
 - 10 finger blind-typing skills
+- writing skills
 - driving license
 - at least basic knowledge of ironic and sarcastic languages
 
