@@ -1,6 +1,6 @@
-# This vacancy is not open any more! But you can send your CV, if you are a Senior QA, I'll contact you, as soon as new vacancies are open again. 
+### This vacancy is not open any more! But you can send your CV, if you are a Senior QA, I'll contact you, as soon as new vacancies are open again. 
 
-### There is a dream job for you! Move to the heart of Germany and work on innovative projects with different prominent customers! 
+There is a dream job for you! Move to the heart of Germany and work on innovative projects with different prominent customers! 
 
 ## Job descripton
 
