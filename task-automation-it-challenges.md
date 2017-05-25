@@ -35,5 +35,5 @@ User wants to web-search for a "selenide" term getting the popular site as the t
 
 ![Step 1](1.png)
 ![Step 2-3](2.png)
-![Step 4-5](3.png)
+![Step 4-5](5.png)
 ![Step 6-7](4.png)
