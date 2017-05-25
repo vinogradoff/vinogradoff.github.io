@@ -1,7 +1,7 @@
 
 ### Task
 Please automate the following scenario as **one** UI Selenium-based test.
-Explain your decisions or be prepared to explain the to the judges during the Day 2.
+Get prepared to explain your decisions to the judges during the Day 2.
 
 
 ### Story
