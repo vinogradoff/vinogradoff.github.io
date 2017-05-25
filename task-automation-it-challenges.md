@@ -1,6 +1,7 @@
 
 ### Task
 Please automate the following scenario as **one** UI Selenium-based test.
+Explain your decisions or be prepared to explain the to the judges during the Day 2.
 
 
 ### Story
@@ -16,8 +17,12 @@ You've just got a job as QA Engineer at Google. Your first work field is to auto
 - You may use any help from the Internet, but please not let other people write code for you :)
 
 ### Timing
-As you have _49 more tests_ to write (in our fictionaly story), you don't need to make a perfect test. Do just a **good enough test** for this situation (**2 hours** for one test _on average_). Take as much time or as few time as you need. If you have done your "good enough" test in just **30 minutes** - don't make it perfect, you may need the time later for the other tests, that could be more complex. If on the other hand, you think you need more time, e.g. **3-3,5 hours** - it is fine too, perhaps it will help you to save time in future tests reusing some code or ideas. Let your judgement guide you when to stop. 
+As you have _49 more tests_ to write (in our fictionaly story), you don't need to make a perfect test. Do just a **good enough test** for this situation (**2 hours** for one test _on average_). Take as much time or as few time as you need. If you have done your "good enough" test in just **30-45 minutes** - don't make it perfect, you may need the time later for the other tests, that could be more complex. If on the other hand, you think you need more time, e.g. **3-3,5 hours** - it is fine too, perhaps it will help you to save time in future tests reusing some code or ideas. Let your judgement guide you when to stop. 
 
+### Scoring
+
+This task will be scored separatly from the other tasks, after the talk with the judges at Day 2.
+Even if you did not manage to get the whole task done during the Day 1, you can get high scores, if you persuade the judges about your intentions. Be prepared to explain your ideas, and everything will be fine!
 
 ### Scenario to automate
 
